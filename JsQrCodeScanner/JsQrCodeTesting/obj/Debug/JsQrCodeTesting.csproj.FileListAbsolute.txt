@@ -1,0 +1,85 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\ApplicationInsights.config
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\JsQrCodeTesting.dll.config
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\JsQrCodeTesting.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\JsQrCodeTesting.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Antlr3.Runtime.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.Web.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Newtonsoft.Json.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Helpers.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Mvc.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Optimization.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Razor.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.WebPages.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\WebGrease.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Helpers.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Mvc.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Optimization.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.Razor.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.WebPages.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Antlr3.Runtime.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Newtonsoft.Json.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\bin\Microsoft.AI.Web.xml
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\3. March\10-03-2018\JsQrCodeTesting\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\ApplicationInsights.config
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\JsQrCodeTesting.dll.config
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\JsQrCodeTesting.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\JsQrCodeTesting.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Antlr3.Runtime.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.DependencyCollector.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.Web.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.WindowsServer.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.ApplicationInsights.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Newtonsoft.Json.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Helpers.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Mvc.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Optimization.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Razor.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.WebPages.Deployment.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.WebPages.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.WebPages.Razor.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\WebGrease.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Helpers.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Mvc.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Optimization.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.Razor.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.WebPages.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.WebPages.Deployment.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\System.Web.WebPages.Razor.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Antlr3.Runtime.pdb
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Newtonsoft.Json.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.ApplicationInsights.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.DependencyCollector.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.WindowsServer.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\bin\Microsoft.AI.Web.xml
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.csprojResolveAssemblyReference.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.csproj.CoreCompileInputs.cache
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.csproj.CopyComplete
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.dll
+D:\Google Drive Backup (08-03-2018) last\C# Codes\2018\3. March\11-03-2018\JsQrCodeScanner\JsQrCodeTesting\obj\Debug\JsQrCodeTesting.pdb

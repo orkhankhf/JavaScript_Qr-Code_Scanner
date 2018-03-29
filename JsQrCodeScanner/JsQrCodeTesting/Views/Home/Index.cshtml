@@ -1,0 +1,46 @@
+﻿@{
+	ViewBag.Title = "Home Page";
+}
+
+<video id="video" width="640" height="480" autoplay></video>
+<button id="snap">Snap Photo</button>
+<canvas id="canvas" width="640" height="480"></canvas>
+<button id="action">action</button>
+
+<script type="text/javascript">
+
+		var video = document.getElementById('video');
+		if(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+		    navigator.mediaDevices.getUserMedia({ video: true }).then(function(stream) {
+		        video.src = window.URL.createObjectURL(stream);
+		        video.play();
+		    });
+		}
+		var canvas = document.getElementById('canvas');
+		var context = canvas.getContext('2d');
+		var video = document.getElementById('video');
+
+		function test() {
+			context.drawImage(video, 0, 0, 640, 480);
+			var ctx = canvas.getContext('2d');
+			ctx.beginPath();
+			ctx.arc(100, 100, 50, 1.5 * Math.PI, 0.5 * Math.PI, false);
+			ctx.lineWidth = 10;
+			ctx.stroke();
+			var imgData = canvas.toDataURL();
+			function decodeImageFromBase64(data, callback) {
+				qrcode.callback = callback;
+				qrcode.decode(data)
+			}
+			decodeImageFromBase64(imgData, function (decodedInformation) {
+				if (decodedInformation == "bugunun QR kod deyeri") {
+					alert(decodedInformation);
+				} else {
+					console.log(decodedInformation);
+				}
+			});
+		}
+		setInterval(function () {
+			test();
+		}, 100);
+</script>
